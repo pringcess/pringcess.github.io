@@ -45,13 +45,13 @@
 
 <br/>
 
-<h2> My neighbours</h2
+<h2> My neighbours</h2>
     <ol>
-    <li>Shakhzod Omonbayev- Seeyaman</li>
-
-    <li>Timur Makhmudov- Teamoha</li>
-</ol>
+    <li> Shakhzod Omonbayev- Seeyaman </li>
+    <li> Timur Makhmudov- Teamoha </li>
+    </ol>
 </body>
+</html>
 
 
 
