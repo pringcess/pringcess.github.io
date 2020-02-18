@@ -1,0 +1,70 @@
+body,html{
+	
+	height : 100%;
+}
+
+.site{
+	margin-left: 10%;
+    margin-right: 10%;
+
+}
+.style {
+	padding-top: 15px;
+  background-image: url("https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+.main {
+	border: 10px solid white;
+	
+	background-color: white;
+	 
+
+	}
+
+
+.header {
+
+	 
+	background-color: #A8F0F0;
+	text-align: right;
+    }
+#subheader {
+	font-size:14pt;
+	text-align: right;}
+.spatulas {
+	border: 5px solid lightblue;
+	background-color: #C2E9E9;
+	padding : 5px;
+	margin-top: 10px;
+	overflow: hidden;
+	border-width: 4px;
+	  
+
+}
+.date {
+	border-bottom:  2px dashed blue;
+}
+.cupcake {
+border: 4px solid lightblue;
+background-color: #C2E9E9;
+padding: 5px;
+margin-top: 10px;
+overflow: hidden;
+}
+.date1 {
+	border-bottom:  2px dashed blue;
+
+}
+
+img {
+	float:right;
+	 
+}
+.links{
+	float:left;
+}
