@@ -7,8 +7,6 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<!-- This links to a stylesheet that gives basic formatting to your page; you do not need to modify this. -->
 	<link rel="stylesheet" type="text/css" href="journal_basic.css" title="style" />
-	
-	<!-- This is linking to your stylesheet, journal_layout.css -->
 	<link rel="stylesheet" type="text/css" href="journal_layout.css" title="style" />
 </head>
 
