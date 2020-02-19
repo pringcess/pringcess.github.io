@@ -1,12 +1,11 @@
-# pringcess.github.io
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 	<title>V's Journal</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<!-- This links to a stylesheet that gives basic formatting to your page; you do not need to modify this. -->
-	<link rel="stylesheet" type="text/css" href="http://www.cs.washington.edu/education/courses/190m/09sp/labs/2-journal/journal_basic.css" title="style" />
+	<link rel="stylesheet" type="text/css" href="journal_basic.css" title="style" />
 	
 	<!-- This is linking to your stylesheet, journal_layout.css -->
 	<link rel="stylesheet" type="text/css" href="journal_layout.css" title="style" />
